@@ -1,4 +1,4 @@
-25.04.2024 | Latrodectus | Version  | CampaignID 
+25.04.2024 | Latrodectus | Version 1.2 | CampaignID: Facial
 
 *************************************************
 
