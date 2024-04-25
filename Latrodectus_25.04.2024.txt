@@ -1,0 +1,42 @@
+25.04.2024 | Latrodectus | Version  | CampaignID 
+
+*************************************************
+
+.url https://seraphyaromatherapy.com/wp-content/plugins/user-private-files/shared
+.js 156c0afc01a5e346b95ebdb60cea9b7046ad7a61199cd63d6ad0f4ae32a576ac
+.msi 8041a15e27c785f2adcce9e8c643f5cc619b52e50cd36ff043d13c4089ce1cad
+.dll 1625ac230aa5ca950573f3ba0b1a7bd4c7fbd3e3686f9ecd4a40f1504bf33a11
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document_n81_36g317277-59y53930t0925-0196b8 (2).js"
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding D9607CE7E345A2B77545CA25887DB614
+
+MSIE18C.tmp C:/Windows/System32/rundll32.exe C:\Users\Admin\AppData\Local\sharepoint\360total.dll, homq
+
+rundll32.exe C:\Users\Admin\AppData\Local\sharepoint\360total.dll, homq
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_e3f60166.dll", homq 
+
+*************************************************
+
+.dll distro
+
+https://seraphyaromatherapy.com/wp-content/plugins/user-private-files/shared
+https://nlqbgkl5.org/security_check/ > 188.40.202.44:20000
+https://firebasestorage.googleapis.com/v0/b/case-419310.appspot.com/o/imroZI8Xra%2FDocument_h90_16m957712-08k63479r1055-7228h4.js?alt=media&token=6ae5a405-6e42-4d61-91cd-5fa0b3522a4b
+http://45.95.11.217/ad.msi
+
+*************************************************
+
+c2's
+
+https://jarinamaers.shop/live/
+https://wrankaget.site/live/
+
+*************************************************
