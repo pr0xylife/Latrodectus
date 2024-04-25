@@ -25,9 +25,43 @@ rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_e3f60166.dll", 
 
 *************************************************
 
-.dll distro
+distro urls
 
 https://seraphyaromatherapy.com/wp-content/plugins/user-private-files/shared
+https://iswpcreator.com/networkconnect/wp-content/plugins/user-private-files/shared/
+http://konsaltakuatorial.com/indigo/wp-content/plugins/user-private-files/shared/
+https://divifar.com/wp-content/plugins/user-private-files/shared/
+https://i.thietke.in/wp-content/plugins/user-private-files/shared/
+https://direitopositivado.com.br/site/wp-content/plugins/user-private-files/shared/
+https://antvietnam.com/wp-content/plugins/user-private-files/shared/
+https://vitrine.izaragency.com/Epicure-Traiteur/wp-content/plugins/user-private-files/shared/
+https://yahyacarpet.com/wp-content/plugins/user-private-files/shared/
+https://manbaulhudaasia.aliyy.my/wp-content/plugins/user-private-files/shared/
+https://devaccrocs.allianceconsultants.net/wp-content/plugins/user-private-files/shared/
+https://bissecci.org/wp-content/plugins/user-private-files/shared/
+https://reyadtours.com/wp-content/plugins/user-private-files/shared/
+https://newsmedia247.site/wp-content/plugins/user-private-files/shared/
+https://ideanet.co.in/wp-content/plugins/user-private-files/shared/
+https://www.pansy-dz.com/wp-content/plugins/user-private-files/shared/
+http://www.websitedesigningindia.biz/projects/visioncrystal/wp-content/plugins/user-private-files/shared/
+https://milkganache.com.br/chocolate/wp-content/plugins/user-private-files/shared/
+https://audio.daiphucminh.vn/wp-content/plugins/user-private-files/shared/
+https://ideosphere.in/wp-content/plugins/user-private-files/shared/
+http://vegasnights.co.za/wp/wp-content/plugins/user-private-files/shared/
+https://thayhoicoffee.com/wp-content/plugins/user-private-files/shared/
+https://ugandainarabic.com/wp-content/plugins/user-private-files/shared/
+https://quotesparade.com/wp-content/plugins/user-private-files/shared/
+http://phatthanhnghia.com/wp-content/plugins/user-private-files/shared/
+https://upr.lk/wp-content/plugins/user-private-files/shared/
+https://phs124168.com/wp-content/plugins/user-private-files/shared/
+https://taifateule.com/wp-content/plugins/user-private-files/shared/
+https://vitrine.izaragency.com/model-2/wp-content/plugins/user-private-files/shared/
+http://tutycholid.com/tangerang/wp-content/plugins/user-private-files/shared/
+https://cbg.divineunveil.com/wp-content/plugins/user-private-files/shared/
+https://pgdm.my/wp-content/plugins/user-private-files/shared/
+
+payload distro
+
 https://nlqbgkl5.org/security_check/ > 188.40.202.44:20000
 https://firebasestorage.googleapis.com/v0/b/case-419310.appspot.com/o/imroZI8Xra%2FDocument_h90_16m957712-08k63479r1055-7228h4.js?alt=media&token=6ae5a405-6e42-4d61-91cd-5fa0b3522a4b
 http://45.95.11.217/ad.msi
