@@ -3,6 +3,7 @@
 *************************************************
 
 .url https://seraphyaromatherapy.com/wp-content/plugins/user-private-files/shared
+.pdf 04-25-inv-doc-[0-9]{1,3}\).pdf
 .js 156c0afc01a5e346b95ebdb60cea9b7046ad7a61199cd63d6ad0f4ae32a576ac
 .msi 8041a15e27c785f2adcce9e8c643f5cc619b52e50cd36ff043d13c4089ce1cad
 .dll 1625ac230aa5ca950573f3ba0b1a7bd4c7fbd3e3686f9ecd4a40f1504bf33a11
