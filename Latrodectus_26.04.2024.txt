@@ -1,0 +1,41 @@
+26.04.2024 | Latrodectus | Version 1.2 | CampaignID: Facial
+
+*************************************************
+
+.url https://bigwing.algoitsolutions.co.uk/wp-content/plugins/share-private-files/shared/
+.js 4cf2b612939359977df51a32d2f63e2cb0c6c601e114b8e4812bd548d1db85fe
+.msi 4e7ac0bdb516e983b3cab7f79850d8102d2bf4117bb343b68d0da73780cceb1a
+.dll 4cf2b612939359977df51a32d2f63e2cb0c6c601e114b8e4812bd548d1db85fe
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document_a51_19i793302-14b09981a5569-3684u8.js
+
+system32\msiexec.exe /V
+
+MsiExec.exe -Embedding 0DD2248957978E9676538919FBEADAC3
+
+MSI1917.tmp C:/Windows/System32/rundll32.exe C:\Users\Admin\AppData\Local\sharepoint\360total.dll, homq
+
+rundll32.exe C:\Users\Admin\AppData\Local\sharepoint\360total.dll, homq
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_2c23aa6.dll", homq 
+
+*************************************************
+
+.dll distro
+
+https://arrivingback.org/security_check/ > 188.40.201.16:10000
+https://firebasestorage.googleapis.com/v0/b/case-419310.appspot.com/o/9m3MVFpDI3%2FDocument_c13_80d969115-51q17428f2747-7346p3.js?alt=media&token=19f6f5c2-0710-4f94-9d8a-32cfd54ae657
+http://146.19.106.236/neo.msi
+
+*************************************************
+
+c2's
+
+https://jarinamaers.shop/live/
+https://startmast.shop/live/
+
+*************************************************
