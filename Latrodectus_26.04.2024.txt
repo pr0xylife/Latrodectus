@@ -13,7 +13,7 @@ url > .js > .msi > .dll
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\Document_a51_19i793302-14b09981a5569-3684u8.js
 
-system32\msiexec.exe /V
+msiexec.exe /V
 
 MsiExec.exe -Embedding 0DD2248957978E9676538919FBEADAC3
 
