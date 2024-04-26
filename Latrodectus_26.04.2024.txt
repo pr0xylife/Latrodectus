@@ -27,6 +27,7 @@ rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_2c23aa6.dll", h
 
 distro
 
+https://bigwing.algoitsolutions.co.uk/wp-content/plugins/share-private-files/shared/
 http://ugandainarabic.com/wp-content/plugins/user-private-files/shared/
 https://metrobasket.in/wp-content/plugins/share-private-files/shared/
 https://2mo.com/wp-content/plugins/share-private-files/shared/
@@ -35,17 +36,10 @@ https://rjjewelpk.com/wp-content/plugins/share-private-files/shared/
 https://saveutilitybills.com/wp-content/plugins/share-private-files/shared/
 http://phs124168.com/wp-content/plugins/user-private-files/shared/
 https://eco-villas.com/wp-content/plugins/share-private-files/shared/
-https://phs124168.com/wp-content/plugins/user-private-files/shared/
-https://rjjewelpk.com/wp-content/plugins/share-private-files/shared/
 https://stgmountainair.wpengine.com/wp-content/plugins/user-private-files/shared/
 http://bissecci.org/wp-content/plugins/user-private-files/shared/
-https://eco-villas.com/wp-content/plugins/share-private-files/shared/
-https://bissecci.org/wp-content/plugins/user-private-files/shared/
 http://antvietnam.com/wp-content/plugins/user-private-files/shared/
-http://bissecci.org/wp-content/plugins/user-private-files/shared/
-https://bissecci.org/wp-content/plugins/user-private-files/shared/
 http://cbg.divineunveil.com/wp-content/plugins/user-private-files/shared/
-https://antvietnam.com/wp-content/plugins/user-private-files/shared/
 http://newsmedia247.site/wp-content/plugins/user-private-files/shared/
 
 .dll distro
