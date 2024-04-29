@@ -18,7 +18,7 @@ C:\Windows\system32\msiexec.exe /V
 
 MsiExec.exe -Embedding 495D3AD9014FCD04925DC82F1604BC64
 
-MSIBE26.tmp C:/Windows/System32/rundll32.exe C:/Windows/System32/rundll32.exe C:\Users\Admin\AppData\Local\glosar\beta.dll, homq
+MSIBE26.tmp C:/Windows/System32/rundll32.exe C:\Users\Admin\AppData\Local\glosar\beta.dll, homq
 
 rundll32.exe C:\Users\Admin\AppData\Local\glosar\beta.dll, homq
 
