@@ -44,7 +44,7 @@ http://newsmedia247.site/wp-content/plugins/user-private-files/shared/
 
 .dll distro
 
-https://arrivingback.org/security_check/ > 188.40.201.16:10000
+https://arrivingback.org/security_check/
 https://firebasestorage.googleapis.com/v0/b/case-419310.appspot.com/o/9m3MVFpDI3%2FDocument_c13_80d969115-51q17428f2747-7346p3.js?alt=media&token=19f6f5c2-0710-4f94-9d8a-32cfd54ae657
 http://146.19.106.236/neo.msi
 
