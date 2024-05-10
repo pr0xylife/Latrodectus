@@ -12,7 +12,7 @@
 
 .pdf > url > .js > .msi > .dll
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Form_W-9_Ver-083_030913350-67084228u8857-460102.js
 
 msiexec.exe /V
 
