@@ -1,0 +1,41 @@
+09.05.2024 | Latrodectus | Version  | CampaignID: 
+
+*************************************************
+
+.url TBC
+.pdf TBC
+.js 937d07239cbfee2d34b7f1fae762ac72b52fb2b710e87e02fa758f452aa62913
+.msi ead5ebf464c313176174ff0fdc3360a3477f6361d0947221d31287eeb04691b3
+.dll f4cb6b684ea097f867d406a978b3422bbf2ecfea39236bf3ab99340996b825de
+
+*************************************************
+
+.pdf > url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 4C2357E2EC155848C0BAE3B4A42B7458
+
+MSI10B.tmp C:/Windows/System32/rundll32.exe C:\Users\Admin\AppData\Roaming\upfilles.dll, stow
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\upfilles.dll, stow
+
+*************************************************
+
+distro
+
+
+.dll distro
+
+http://185.219.220.149/bim.msi
+
+*************************************************
+
+c2's
+
+https://workspacin.cloud/live/
+https://illoskanawer.com/live/
+
+*************************************************
