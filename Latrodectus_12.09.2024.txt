@@ -1,0 +1,49 @@
+12.09.2024 | Latrodectus | Version 1.7 | CampaignID: Alpha
+
+*************************************************
+
+.url https://ubo8.cc/wp-content/plugins/shortcurl/
+.pdf af0fe3b31d44de22f067f8f2c17cbfc88598d734b3f4d767b90480d3b53a334c
+.js e31eaa04f39c59b97532303ae0cd41ddf8a24295bad8956d92b618b66bfecd1c
+.msi f60c7e2cd7078584e1fb2eacd6270c314f1e23f76a4cd78c5d13eec215f0e41c
+.dll 2333dd858fc40899a1bff3fb39fbc0b4e65a864bfd4eb73c26b48aaddcca7061
+
+*************************************************
+
+.pdf > url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-09-29-19.js
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding D398D22C951DF9EB68C5C51B644D2C2D
+
+MSI50F0.tmp /DontWait C:/Windows/System32/rundll32.exe C:\Users\Admin\AppData\Roaming\true.dll, NvPluginGetInfo
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\true.dll, NvPluginGetInfo
+
+rundll32.exe "C:\Users\Admin\AppData\Roaming\Custom_update\Update_3a4a87f3.dll", NvPluginGetInfo 
+
+msedge.exe --type=utility --utility-sub-type=asset_store.mojom.AssetStoreService --lang=en-US --service-sandbox-type=asset_store_service --field-trial-handle=4032,i,3408372888940792859,16020339286136029891,262144 --variations-seed-version --mojo-platform-channel-handle=4192 /prefetch:8
+
+*************************************************
+
+distro
+
+
+.dll distro
+
+http://193.203.203.40/vfs.msi
+
+*************************************************
+
+c2's
+
+https://isomicrotich.com/test/
+https://rilomenifis.com/test/
+https://wernugemar.com/test/
+https://opengameirar.com/test/
+
+*************************************************
+
+
