@@ -36,9 +36,16 @@ http://188.119.112.115/DLPAgent.msi
 
 c2's
 
+BRC4
+
 https://bazarunet.com:8041/bazar.php
 https://greshunka.com:8041/admin.php
 https://tiguanin.com:8041/bazar.php
+
+Latrodectus
+
+https://rilomenifis.com/test/
+https://isomicrotich.com/test/
 
 *************************************************
 
