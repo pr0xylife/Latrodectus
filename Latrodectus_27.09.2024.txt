@@ -23,6 +23,8 @@ rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
 
 rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
 
+explorer.exe << Latro injected
+
 *************************************************
 
 .js & .dll distro
