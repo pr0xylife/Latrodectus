@@ -1,0 +1,55 @@
+27.09.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Alpha
+
+*************************************************
+
+.pdf 3f7a5830f2edc0a5d6943b6a5eabe28f8e26a5ecd7a729495efc4f09f1500fc2
+.js  3b86c9516bd5d57758ab976e32af2d7873d7ad0b0e063a49ee13c168f2c1e980
+.msi 2b0af73350b8a2b37617ca7632de9a0657a20976c2402717e7dc4bef7dcbabdb
+.dll 617e31e9f71b365fe69719d3fc980d763e827a4f93d0e776d1587d0bfdb47674
+
+*************************************************
+
+.pdf > js > .url > msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-19-51-48.js
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 3A5F0E90911A027C67866111AA50CBCC
+
+MSIBA2E.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
+
+*************************************************
+
+.js & .dll distro
+
+https://www.hitplus.fr/2018/click.php?url=https://cutt.ly/seU8MT6t#F8i_bfW
+https://cutt.ly/HeU8MCZU
+https://digitalpinnaclepub.com/?3
+https://storage.googleapis.com/braided-turbine-435813-n7.appspot.com/VA8PBxartt/Document-20-17-57.js?
+
+*************************************************
+
+c2's
+
+BRC4
+
+tiguanin.com
+greshunka.com
+bazarunet.com
+mazinom.com
+leroboy.com
+krinzhodom.com
+klemanzino.net
+
+Latrodectus
+
+https://isomicrotich.com/test/
+https://rilomenifis.com/test/
+
+
+*************************************************
