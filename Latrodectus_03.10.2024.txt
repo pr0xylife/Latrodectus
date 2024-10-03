@@ -6,7 +6,6 @@
 .js  0d9d65a1f9c447584a022a866fed2399bf8b42e2a0087a786e87087bba1e18f1
 .msi ea1792f689bfe5ad3597c7f877b66f9fcf80d732e5233293d52d374d50cab991
 .dll 97a6331239d451d7dfe15bfe17de8b419df741ae68bacd440808f8b8d3f99b8a BRC4
-.dll 
 
 *************************************************
 
@@ -44,6 +43,7 @@ https://tiguanin.com:8041
 
 Latrodectus
 
-
+https://opewolumeras.com/test/
+https://isomicrotich.com/test/
 
 *************************************************
