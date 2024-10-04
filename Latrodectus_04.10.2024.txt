@@ -1,0 +1,48 @@
+04.10.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Alpha
+
+*************************************************
+
+.url https://www.einkcn.com/url.php?url=///cutt.ly/SeOKzVg8#Hl-0pn6
+.js  f02ba578e0f962f6be46187b288e22a4dbe972878893ecb81ff5f33944aef4b4
+.msi 07282b92613d88cdeb02dc30835216268c7ec378bb0ff7a08bb280775a8f82c3
+.dll c6c697d658dd221f27a8d58e79a478646877ac6afcf0cbe2ce919862f3889c6b BRC4
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-19-29-20.js
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 35BB95E1328CB2799B579FF2AD914752
+
+MSI4E16.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\meliwe_gown_x64.dll, AXA
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\meliwe_gown_x64.dll, AXA
+
+*************************************************
+
+.js & .dll distro
+
+https://www.einkcn.com/url.php?url=///cutt.ly/SeOKzVg8#Hl-0pn6
+https://cutt.ly/SeOKzVg8
+https://ekcdn.top/
+https://firebasestorage.googleapis.com/v0/b/fifth-branch-437219-c4.appspot.com/o/emsfeW1Eyo%2FDocument-19-29-20.js?alt=media&token=68f337b3-a416-4601-ba02-d94d5dba7fda
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://obobobo.com:8042/boku.php
+https://pobegskichi.com:8042/boku.php
+https://sosachwaffen.com:8042/goku.php
+
+Latrodectus
+
+https://opewolumeras.com/test/
+https://isomicrotich.com/test/
+
+*************************************************
