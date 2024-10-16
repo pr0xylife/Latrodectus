@@ -1,0 +1,46 @@
+16.10.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Alpha
+
+*************************************************
+
+.url https://www.escort-jaipur.in/wp-content/plugins/shortcurl
+.js 620deee533806435220710d4ac4bd7810e04cb8d21fd80293785cd6b9235ca75
+.msi fd4b6e419691647b9ae0ca60e5b383c5d9fe1d5fcfc8dec887bb188c4d39d36e
+.dll 0cf42f02249025e69a65c5395e04c3e220cf59cbf02daf1f04b036d740fbf96c BRC4
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-14-33-26.js
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding DFBB0D28447B4DC561710CE5209C8834
+
+MSIAFDD.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\network.dll, Name
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\network.dll, Name
+
+*************************************************
+
+.js & .dll distro
+
+https://www.escort-jaipur.in/wp-content/plugins/shortcurl
+https://firebasestorage.googleapis.com/v0/b/fifth-branch-437219-c4.appspot.com/o/Li8MBINijn%2FDocument-14-43-18.js?alt=media&token=2218733a-c352-4091-8877-48d82cdae72c
+http://91.225.219.174/net.msi
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://soccoc.africa:8810/pika.php
+https://deltaso.com:8810/pika.php
+https://berzzuzz.com:8810/geo.php
+
+Latrodectus
+
+
+
+*************************************************
