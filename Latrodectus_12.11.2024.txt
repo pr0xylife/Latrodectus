@@ -1,0 +1,50 @@
+13.10.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Eta
+
+*************************************************
+
+.url https://alyusrclean.com/wp-content/plugins/widget-for-zendesk-chat-via-api/index.php?token=9n3b83gk50s&k520072wueoam27=26uf39840810&i=b0z89
+.js 06a9283d0374be0ba13f645b13cca80601595d7d608aa18c9a4c9ce323af03db
+.msi 025abbec1724b9180b369fe116da9d90ae47a4996f6a4e28e8a947bac1e0c741
+.dll f8e3eef1fda5969a7aabcc8fb5cc9f5fe245bbf6cc8e480459977b8e91eab9bd BRC4
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-v09-42-38.js
+
+msiexec.exe /V
+
+syswow64\MsiExec.exe -Embedding 71A554DC2781A77186F8516EA0AD05CC
+
+MSI2BB8.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\apptext.dll, Object
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\apptext.dll, Object
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\apptext.dll, Object
+
+*************************************************
+
+.js & .dll distro
+
+https://alyusrclean.com/wp-content/plugins/widget-for-zendesk-chat-via-api/index.php?token
+https://firebasestorage.googleapis.com/v0/b/active-defender-440017-e9.appspot.com/o/7Jmbd8JcWW%2FDocument-v09-42-38.js?alt=media&token=e3232d60-e53f-4fba-9d7f-fc543b89e2d6
+https://azuresdrivestorage.sbs/text_settings.php
+https://easyprinter.live/lavi.php
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://waffaffa.com:8877/forest.php
+https://waffaffa.com:8877/gump.php
+https://xomamox.com:8877/gump.php
+
+Latrodectus
+
+https://rolefenik.com/test/
+https://ergiholim.com/test/
+
+*************************************************
