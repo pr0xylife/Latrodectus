@@ -21,8 +21,6 @@ MSI2BB8.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Ro
 
 rundll32.exe C:\Users\Admin\AppData\Roaming\apptext.dll, Object
 
-rundll32.exe C:\Users\Admin\AppData\Roaming\apptext.dll, Object
-
 *************************************************
 
 .js & .dll distro
