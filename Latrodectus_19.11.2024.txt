@@ -1,0 +1,53 @@
+19.11.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Theta
+
+*************************************************
+
+.url https://halonikah.com/wp-content/plugins/hls-player/index.php?token=7o03b18dk	
+.js 5204043aeb81bc659aa5787c29b6024d26e658f18c4830d4dac57bca2184cee0
+.msi c39abdca1a31b20fe06969a36102c784df7f63847ec930dfaf8c4bd97b4558bf
+.dll 14ffcbbfb305287ea15264df3363567f36a26917ae2018af0f40e2009b8a7184 BRC4
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-v20-19-06.js
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding DD809D4AF3E7923FDBC32B96CF17036D
+
+MSIBAE9.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\sqx.dll, GetDbInterface
+
+vssvc.exe
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\sqx.dll, GetDbInterface
+
+*************************************************
+
+.js & .dll distro
+
+https://weeddoo.com.br/wp-content/plugins/snoobi-bv-analytics-tracking/index.php?token=z23UT57N8irqY4QKKN7f
+https://azurestorage.world/
+https://azurestorage.world/text_settings.php
+https://firebasestorage.googleapis.com/v0/b/active-defender-440017-e9.appspot.com/o/JlmQLxw30z%2FDocument-v00-52-20.js?alt=media&token=f0823dbd-1d79-4d2f-aa5a-cd5da328225e
+https://fwaax.life/merd.php
+
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://guaaug.com:4438/almaz.php
+https://uayyau.com:4438/topaz.php
+
+Latro
+
+
+
+*************************************************
+
