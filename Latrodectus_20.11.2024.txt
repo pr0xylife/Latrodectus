@@ -1,0 +1,44 @@
+20.11.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Lambda
+
+*************************************************
+
+.url http://dr-stahl.com/wp-content/plugins/doubledome-wordcount-details-dashboard/index.php?id=9gyLw08cuyjtvGfYKwXv
+.js 
+.msi 
+.dll  BRC4
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-v20-19-06.js
+
+msiexec.exe /V
+
+*************************************************
+
+.js & .dll distro
+
+http://dr-stahl.com/wp-content/plugins/doubledome-wordcount-details-dashboard/index.php?id=9gyLw08cuyjtvGfYKwXv
+https://azrcloud.world/
+https://azrcloud.world/vl.php
+https://azrcloud.world/text_settings.php
+https://firebasestorage.googleapis.com/v0/b/active-defender-440017-e9.appspot.com/o/nSiR9OCCFI%2FDocument-v22-21-06.js?alt=media&token=38cdffb4-e446-4bbc-8748-09a21a068580
+https://vandaconnect.life/bilk.php
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://guaaug.com:4438/almaz.php
+https://uayyau.com:4438/topaz.php
+
+Latro
+
+https://bestmarsgood.com/test/
+https://cerwintifed.com/test/
+
+*************************************************
+
