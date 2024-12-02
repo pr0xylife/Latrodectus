@@ -1,0 +1,53 @@
+02.12.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Lambda
+
+*************************************************
+
+.url https://bellybuttonringsandthings.com/wp-content/plugins/resads/mfls.php?id=1337
+.js 3004bb2d2bce7114ebc7a2d0e56ff94bf37287d31c6bb78b3878b0ebe9d366a3
+.msi 61365e29247428b26c8a6ca0d6326bbd04c2c798d7abad1660338ce3c11c68c4
+.dll f2170f7dc2f97434ef4514ed4272dc8792177038a085f248ba33f9259720afda
+
+*************************************************
+
+url > .js > .msi > .dll
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\zdi.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 1337
+
+MSIEEE3.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\wait.dll, Jump
+
+vssvc.exe
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\wait.dll, Jump
+
+*************************************************
+
+.js & .dll distro
+
+https://bellybuttonringsandthings.com/wp-content/plugins/resads/mfls.php?id=1337
+https://asrcloudonline.sbs/?id=KZH0Vx1O8PdePWqvzLa8
+https://asrcloudonline.sbs/text_settings.php
+https://firebasestorage.googleapis.com/v0/b/namo-426715.appspot.com/o/InNFx4Mn1c%2FDocument-v21-53-35.js?alt=media&token=cdb034ee-1026-41ea-a0b5-c59489af20a9
+213.108.22.208@80\\master\\zdi.txt
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://huanvn.com:6542/stop.php
+https://huanvn.com:6542/gop.php
+
+Latro
+
+https://reateberam.com/test/
+https://dogirafer.com/test/
+
+*************************************************
+
