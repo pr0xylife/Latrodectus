@@ -1,0 +1,57 @@
+03.12.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Lambda
+
+*************************************************
+
+.url https://formacaonext.com.br/wp-content/plugins/app-for-cf/docx.php?id=hefwtPsf22F
+.js 336e3270061d943676348528cdab8fd5b276a4c0b385f3dfe1d9d180039f77e5
+.msi 658b8c47d7193c7c31a2540b2f54fcdfb9298d8346a4ad3be7e684ef946f57a5
+.dll c3baf0446831b6968a30ea23647ac559ee62219f91daae5c1b0a9787f9c860b9
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-v21-53-35.js
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\fes.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 58A04CA01423A804B1574B9A8889BF3E
+
+MSIE544.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\avutil.dll, DLLMain
+
+vssvc.exe
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\avutil.dll, DLLMain
+
+*************************************************
+
+.js & .dll distro
+
+https://formacaonext.com.br/wp-content/plugins/app-for-cf/docx.php?id=hefwtPsf22F
+https://aurestorage.cfd/?id=hefwtPsf22F
+https://aurestorage.cfd/text_settings.php
+https://firebasestorage.googleapis.com/v0/b/endless-splice-429015-f9.appspot.com/o/FzMmugdD98%2FDocument-v15-51-07.js?alt=media&token=e8a296db-0f5a-484b-821c-85d801833fb4
+https://ateen.life/fes.php
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://huanvn.com:6542/stop.php
+https://huanvn.com:6542/gop.php
+https://vutarf.com:6542/stop.php
+https://vutarf.com:6542/gop.php
+
+Latro
+
+https://reateberam.com/test/
+https://dogirafer.com/test/
+
+*************************************************
+
