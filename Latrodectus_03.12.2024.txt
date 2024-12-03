@@ -11,7 +11,7 @@
 
 url > .js > .msi > .dll
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-v21-53-35.js
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-v15-51-07.js
 
 msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\fes.msi
 
