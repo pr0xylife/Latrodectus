@@ -1,4 +1,4 @@
-17.12.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Lambda
+17.12.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Lambda - 3306744842
 
 *************************************************
 
@@ -42,7 +42,9 @@ c2's
 
 BRC4
 
+https://cronoze.com:8817/pentium.php
 https://cronoze.com:8817/intel.php
+https://muuxxu.com:8817/pentium.ph
 https://muuxxu.com:8817/intel.php
 
 Latro
