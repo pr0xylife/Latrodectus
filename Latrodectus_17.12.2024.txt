@@ -1,0 +1,53 @@
+17.12.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Lambda
+
+*************************************************
+
+.url https://www.einkcn.com/url.php?url=///%25%36%32%25%36%46%25%36%36%25%32%45%25%36%44%25%36%35%25%36%42%25%36%31%25%36%43%25%36%43%25%32%45%25%36%33%25%36%46%25%36%44
+.pdf 9692613a9bae252b259625f7949f697a50f3bb9a3692f53a6cbb91ca069e29b5
+.js d5a23e43954d0665d3bb6441b53d360016729749d0e2ea5c9c546e381bf4ae47
+.msi f071f083770fe89d0860ba0cf46eda960d3ccf31639a18dda8954a0c026165d9
+.dll ea2c9e620d779449a2d5176ace0c4993934e85be7a0207f3f51b4a432627ad2f
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Doc_16-48-43.js
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\lavita.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding BE3D4CB76C0EBA3872C3BEE667E5D955
+
+rundll32.exe appgpuset.dll, GfeXcodeFunc
+
+vssvc.exe
+
+*************************************************
+
+.js & .dll distro
+
+ https://www.einkcn.com/url.php?url=///%25%36%32%25%36%46%25%36%36%25%32%45%25%36%44%25%36%35%25%36%42%25%36%31%25%36%43%25%36%43%25%32%45%25%36%33%25%36%46%25%36%44
+https://bof.mekall.com/
+https://aureonline.cloudlsk.sbs/text_settings.php
+https://firebasestorage.googleapis.com/v0/b/endless-splice-429015-f9.appspot.com/o/YlP1oeviIk%2FDoc_16-46-51.js?alt=media&token=683f365d-0ef8-4429-b46a-152f7edac1ba
+https://syncme.life/lavita.php
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://cronoze.com:8817/intel.php
+https://muuxxu.com:8817/intel.php
+
+Latro
+
+
+
+*************************************************
+
