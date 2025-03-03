@@ -9,7 +9,7 @@
 
 *************************************************
 
-url > .js > .msi > .dll
+.pdf > url > .js > .msi > .dll
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\Doc153453.js
 
